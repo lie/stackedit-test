@@ -4,7 +4,7 @@
 ## Code block
 
 ```main.c
-#include<stdio.h>
+#include <stdio.h>
 
 int main() {
   printf("Hello, world!\n");
@@ -12,7 +12,7 @@ int main() {
 }
 ```
 
-## mermaind
+## mermaid.js
 
 ```mermaid
 graph LR
@@ -24,5 +24,5 @@ C --> D
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk0ODQ4OTQ2OV19
+eyJoaXN0b3J5IjpbLTIwMTk5MjUyNjBdfQ==
 -->
