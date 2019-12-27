@@ -1,6 +1,8 @@
 `foo.md`
 ===
 
+## Code block
+
 ```main.c
 #include<stdio.h>
 
@@ -10,7 +12,13 @@ int main() {
 }
 ```
 
+```flow
+st=>start
+e=>End
+st
+```
+
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5OTM0NzI4ODBdfQ==
+eyJoaXN0b3J5IjpbOTkxNjE0NTY2XX0=
 -->
