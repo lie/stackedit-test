@@ -24,10 +24,11 @@
 #### h4
 
 $$
-y=f(x)
+F(k) = \sum^{N-1}_{n=0} f(n) \exp(\frac{-2 \pi i}{N} n k) \\
+f(t) = \frac{1}{N} \sum^{N-1}_{n=0} F(n) \exp(\frac{2 \pi i}{N} n t)
 $$
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MzA0MzQ2NCwtNjkzNjUxNDIzXX0=
+eyJoaXN0b3J5IjpbLTE2ODk0MDEzNTMsLTY5MzY1MTQyM119
 -->
