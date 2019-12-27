@@ -32,7 +32,6 @@ C --> D
 1. one
 2. two
 3. three
-
 $$
 y=f(x)
 $$
@@ -42,6 +41,6 @@ the
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg0NzM3MjcyOCwtMTk5NDAyMDcxNCwtMT
+eyJoaXN0b3J5IjpbLTEwMDkyODA3NCwtMTk5NDAyMDcxNCwtMT
 g4OTg5OTU4NCwtMjAxOTkyNTI2MF19
 -->
