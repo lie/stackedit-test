@@ -17,11 +17,17 @@
 
 | fruits | prices |
 | :----- | :----- |
-| apple  | $10    |
-| orange | $5     |
-| 
+| apple  | $1     |
+| orange | $2     |
+| peach  | $3     |
+
+#### h4
+
+$$
+y=f(x)
+$$
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MTU0Mjc4MjgsLTY5MzY1MTQyM119
+eyJoaXN0b3J5IjpbLTE2MzA0MzQ2NCwtNjkzNjUxNDIzXX0=
 -->
