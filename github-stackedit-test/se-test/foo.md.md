@@ -22,7 +22,11 @@ B --> D{Rhombus}
 C --> D
 ```
 
+## Link
+
+[`se-test/foo.md`]
+
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMTk5MjUyNjBdfQ==
+eyJoaXN0b3J5IjpbMTAyNDkwOTgxNSwtMjAxOTkyNTI2MF19
 -->
