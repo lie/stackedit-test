@@ -24,9 +24,11 @@ C --> D
 
 ## Link
 
-[`se-test/foo.md`]
+[`se-test/foo.md`](./foo.md)
+[`se-test/foo.html`](./foo.html)
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAyNDkwOTgxNSwtMjAxOTkyNTI2MF19
+eyJoaXN0b3J5IjpbLTE4ODk4OTk1ODQsLTIwMTk5MjUyNjBdfQ
+==
 -->
